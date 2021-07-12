@@ -18,7 +18,7 @@ class ItemWidget extends StatelessWidget {
         title: Text(item.name),
         subtitle: Text(item.desc),
         trailing: Text(
-          "\₹ ${item.price}",
+          "\$ ${item.price}",
           textScaleFactor: 1,
           style: TextStyle(
             color: Colors.deepPurple,
