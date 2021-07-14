@@ -49,6 +49,7 @@ class _HomePageState extends State<HomePage> {
                 gridDelegate: SliverGridDelegateWithFixedCrossAxisCount(
                   crossAxisCount: 2,
                   mainAxisSpacing: 16,
+                  crossAxisSpacing: 16,
                 ),
                 itemBuilder: (context, index) {
                   final item = CatalogModel.items![index];
@@ -57,12 +58,23 @@ class _HomePageState extends State<HomePage> {
                       shape: RoundedRectangleBorder(
                           borderRadius: BorderRadius.circular(10)),
                       child: GridTile(
-                        header: Text(item.name),
+                        header: Container(
+                          child: Text(item.name, style: TextStyle(color: Colors.white),),
+                          padding: const EdgeInsets.all(12),
+                          decoration: BoxDecoration(
+                            color: Colors.deepPurple,
+                          ),
+                        ),
                         child: Image.network(item.image),
-                        footer: Text(item.price.toString()),
-                      ));
+                        footer: Container(
+                          child: Text(item.price.toString(), style: TextStyle(color: Colors.white),),
+                          padding: const EdgeInsets.all(12),
+                          decoration: BoxDecoration(
+                            color: Colors.black,
+                          ),
+                      )));
                 },
-                itemCount: CatalogModel.items.length,
+                itemCount: CatalogModel.items!.length,
               )
             : Center(child: CircularProgressIndicator()),
       ),
