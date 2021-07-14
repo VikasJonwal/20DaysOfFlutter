@@ -3,7 +3,7 @@
         {
             "id": 1,
             "name": "Apple iPhone 12 Pro Max",
-            "desc": "New Apple iPhone 12 Pro Max (256GB) - Pacific Blue",
+            "desc": "(256GB , Pacific Blue)",
             "price": 999,
             "color": "#33505a",
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRISJ6msIu4AU9_M9ZnJVQVFmfuhfyJjEtbUm3ZK11_8IV9TV25-1uM5wHjiFNwKy99w0mR5Hk&usqp=CAc"
@@ -11,7 +11,7 @@
         {
             "id": 2,
             "name": "Google Pixel 5",
-            "desc": "Google Pixel 5 Sorta Sage, 8GB RAM, 128GB Storage",
+            "desc": "(8GB RAM, 128GB Storage)",
             "price": 699,
             "color": "#00ac51",
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd0JhwLvm_uLDLc-la7hK9WyVpe9naJFcebKfhcICiq2KtvXDePNAU_9QO06LPcQ0K0fLByc7m&usqp=CAc"
@@ -19,7 +19,7 @@
         {
             "id": 3,
             "name": "Apple MacBook Air",
-            "desc": "Apple MacBook Air (13.3-inch/33.78 cm, Apple M1 chip with 8‑core CPU and 7‑core GPU, 8GB RAM, 256GB SSD) - Gold",
+            "desc": "(8GB RAM, 256GB SSD) - Gold",
             "price": 1099,
             "color": "#e0bfae",
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMOMstwtmLnjFb3NHiDJ_kcQnueNVH-rv_3ps96HZmXlFumKWaiBqq_L4Uoyx3iFiNTrXNEbyB&usqp=CAc"
@@ -43,7 +43,7 @@
         {
             "id": 6,
             "name": "Apple iPad Pro",
-            "desc": "Apple iPad Pro with Apple M1 chip (11-inch/27.96 cm, Wi-Fi + Cellular, 128GB) - Space Grey (3rd Generation)",
+            "desc": "(128GB) - Space Grey (3rd Generation)",
             "price": 799,
             "color": "#f73984",
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNzUeRQ5uH7E3hpECib8qxdhfHv6SnUGT7mOsew_xiOoqRR7ZpdH-TQ4J6-HuIEfqHimYyPXWH&usqp=CAc"
@@ -51,7 +51,7 @@
         {
             "id": 7,
             "name": "Samsung Galaxy S21 Ultra 5G",
-            "desc": "Samsung Galaxy S21 Ultra 5G (Phantom Black, 12GB, 256GB Storage) + Galaxy Buds Pro",
+            "desc": "(Phantom Black, 12GB, 256GB Storage)",
             "price": 1299,
             "color": "#1c1c1c",
             "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT_PZcc0wicVYR992s5QCIDLYy8t-z-9kibTUdWZBN2sd86aaqdAJfhvxAwZNWV9wfdzDikpr1&usqp=CAc"
@@ -59,7 +59,7 @@
         {
             "id": 8,
             "name": "OnePlus 9 Pro 5G",
-            "desc": "OnePlus 9 Pro 5G (Pine Green, 12GB RAM, 256GB Storage)",
+            "desc": "(Pine Green, 12GB RAM, 256GB Storage)",
             "price": 899,
             "color": "#7c95eb",
             "image": "https://images-na.ssl-images-amazon.com/images/I/612ytK4luvL._SL1500_.jpg"
