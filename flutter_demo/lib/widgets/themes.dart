@@ -4,6 +4,7 @@ import 'package:google_fonts/google_fonts.dart';
 class Mytheme {
   static Color darkBluishColor = Color(0xff403b58);
   static Color creamColor = Color(0xfff5f5f5);
+  static Color whitish = Color(0xFFFFFFFF);
 
   static ThemeData lightTheme(BuildContext context) => ThemeData(
       primarySwatch: Colors.deepPurple,
@@ -15,7 +16,6 @@ class Mytheme {
         textTheme: Theme.of(context).textTheme,
       ));
   static ThemeData darkTheme(BuildContext context) => ThemeData(
-      brightness: Brightness.dark,
+        brightness: Brightness.dark,
       );
 }
-
