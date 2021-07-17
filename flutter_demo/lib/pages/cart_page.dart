@@ -16,10 +16,12 @@ class CartPage extends StatelessWidget {
           _CartList().p32().expand(),
           Divider(),
           _CartTotal(),
-      ],),
+        ],
+      ),
     );
   }
 }
+
 class _CartTotal extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
@@ -31,12 +33,16 @@ class _CartTotal extends StatelessWidget {
           "\$9999".text.xl5.color(Mytheme.darkBluishColor).make(),
           30.widthBox,
           ElevatedButton(
-            onPressed: (){}, 
+            onPressed: () {
+              ScaffoldMessenger.of(context).showSnackBar(
+                  SnackBar(content: "Buying Not Supported Yet !".text.make()));
+            },
             style: ButtonStyle(
-              backgroundColor: MaterialStateProperty.all(Mytheme.darkBluishColor),
+              backgroundColor:
+                  MaterialStateProperty.all(Mytheme.darkBluishColor),
             ),
             child: "Buy".text.make(),
-            ).w32(context)
+          ).w32(context)
         ],
       ),
     );
@@ -52,15 +58,14 @@ class _CartListState extends State<_CartList> {
   @override
   Widget build(BuildContext context) {
     return ListView.builder(
-      itemCount: 5,
-      itemBuilder: (context, index) => ListTile(
-        leading: Icon(Icons.done),
-        trailing: IconButton(
-          icon: Icon(Icons.remove_circle_outline), onPressed: () { },
-        ),
-        title: "Item 1".text.make(),
-      )
-    );
-      
+        itemCount: 5,
+        itemBuilder: (context, index) => ListTile(
+              leading: Icon(Icons.done),
+              trailing: IconButton(
+                icon: Icon(Icons.remove_circle_outline),
+                onPressed: () {},
+              ),
+              title: "Item 1".text.make(),
+            ));
   }
 }
