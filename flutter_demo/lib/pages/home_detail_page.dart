@@ -45,7 +45,7 @@ class HomeDetailPage extends StatelessWidget {
                         .bold
                         .make(),
                     catalog.desc.text.caption(context).lg.make(),
-                    "Description".text.caption(context).make().p16(),
+                    catalog.info.text.caption(context).make().p16(),
                   ],
                 ).py64(),
               ),

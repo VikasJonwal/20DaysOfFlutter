@@ -6,7 +6,8 @@
             "desc": "(256GB , Pacific Blue)",
             "price": 999,
             "color": "#33505a",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRISJ6msIu4AU9_M9ZnJVQVFmfuhfyJjEtbUm3ZK11_8IV9TV25-1uM5wHjiFNwKy99w0mR5Hk&usqp=CAc"
+            "image": "https://help.apple.com/assets/60B7E58517CE730F846C6E43/60B7E58717CE730F846C6E59/en_US/89b3637148cd23430af87df4d9db35bf.png",
+            "info": "The iPhone 12 Pro and iPhone 12 Pro Max are Apple's latest smartphones, offering 5G connectivity, the A14 chip for better performance, an improved camera system with a LiDAR scanner, and MagSafe, all in a new, squared-off design."          
         },
         {
             "id": 2,
@@ -14,7 +15,8 @@
             "desc": "(8GB RAM, 128GB Storage)",
             "price": 699,
             "color": "#00ac51",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSd0JhwLvm_uLDLc-la7hK9WyVpe9naJFcebKfhcICiq2KtvXDePNAU_9QO06LPcQ0K0fLByc7m&usqp=CAc"
+            "image": "https://cdn.alzashop.com/Foto/f11/GP/GPX1066b1.jpg",
+            "info": "Google Pixel 5 smartphone comes with a 6.00-inch touchscreen display with a resolution of 1080x2340 pixels at a pixel density of 432 pixels per inch (ppi) and an aspect ratio of 19.5:9. Google Pixel 5 is powered by a 1.8GHz octa-core Qualcomm Snapdragon 765G processor."
         },
         {
             "id": 3,
@@ -22,15 +24,17 @@
             "desc": "(8GB RAM, 256GB SSD) - Gold",
             "price": 1099,
             "color": "#e0bfae",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMOMstwtmLnjFb3NHiDJ_kcQnueNVH-rv_3ps96HZmXlFumKWaiBqq_L4Uoyx3iFiNTrXNEbyB&usqp=CAc"
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMOMstwtmLnjFb3NHiDJ_kcQnueNVH-rv_3ps96HZmXlFumKWaiBqq_L4Uoyx3iFiNTrXNEbyB&usqp=CAc",
+            "info": "Apple MacBook Air comes with a 13.30-inch display that has a resolution of 2560x1600 pixels. It is powered by a Core i3 processor and it comes with 8GB of RAM. The Apple MacBook Air 2020 packs 256GB of SSD storage. Graphics are powered by Integrated Graphics Processor."
         },
         {
             "id": 4,
             "name": "SONY PLAYSTATION 5",
-            "desc": "SONY PLAYSTATION 5 PS5 CONSOLE COMPLETE SET (IMPORTED)",
+            "desc": "PS5 CONSOLE COMPLETE SET (IMPORTED)",
             "price": 500,
             "color": "#544ee4",
-            "image": "https://www.wizekart.com/5411-home_default/sony-playstation-5-ps5-console-complete-set-imported.jpg"
+            "image": "https://rukminim1.flixcart.com/image/416/416/kj7gwi80/gamingconsole/t/v/v/cfi-1008a01r-825-sony-no-original-imafytxe7twjskbx.jpeg?q=70",
+            "info": "CPU: 3.5GHz, 8-core AMD Zen 2   GPU: 10.3 teraflop RDNA 2 GPU   RAM: 16GB GDDR6   Storage: Custom 825GB SSD   Expansion: NVMe M.2 SSD slot   Disc drive: 4K Blu-ray player   Size: 15.4 x 10.2 x 4.1 inches   Weight: 9.9 pounds "
         },
         {
             "id": 5,
@@ -38,7 +42,8 @@
             "desc": "Apple AirPods Pro",
             "price": 200,
             "color": "#e3e4e9",
-            "image": "https://images-na.ssl-images-amazon.com/images/I/71zny7BTRlL._SL1500_.jpg"
+            "image": "https://images-na.ssl-images-amazon.com/images/I/71zny7BTRlL._SL1500_.jpg",
+            "info": "AirPods Pro have been designed to deliver Active Noise Cancellation for immersive sound, Transparency mode so you can hear your surroundings and a customisable fit for all-day comfort. Just like AirPods, AirPods Pro connect like magic to your iPhone or Apple Watch. And they’re ready to use straight out of the case."
         },
         {
             "id": 6,
@@ -46,7 +51,8 @@
             "desc": "(128GB) - Space Grey (3rd Generation)",
             "price": 799,
             "color": "#f73984",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNzUeRQ5uH7E3hpECib8qxdhfHv6SnUGT7mOsew_xiOoqRR7ZpdH-TQ4J6-HuIEfqHimYyPXWH&usqp=CAc"
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNzUeRQ5uH7E3hpECib8qxdhfHv6SnUGT7mOsew_xiOoqRR7ZpdH-TQ4J6-HuIEfqHimYyPXWH&usqp=CAc",
+            "info": "It comes with a 12.90-inch touchscreen display with a resolution of 2732x2048 pixels at a pixel density of 264 pixels per inch (ppi). Apple iPad Pro 12.9-inch (2021) Wi-Fi is powered by an octa-core Apple M1 processor.Apple iPad Pro 12.9-inch (2021) Wi-Fi is based on iPadOS 14 and packs 128GB of inbuilt storage."
         },
         {
             "id": 7,
@@ -54,7 +60,8 @@
             "desc": "(Phantom Black, 12GB, 256GB Storage)",
             "price": 1299,
             "color": "#1c1c1c",
-            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT_PZcc0wicVYR992s5QCIDLYy8t-z-9kibTUdWZBN2sd86aaqdAJfhvxAwZNWV9wfdzDikpr1&usqp=CAc"
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT_PZcc0wicVYR992s5QCIDLYy8t-z-9kibTUdWZBN2sd86aaqdAJfhvxAwZNWV9wfdzDikpr1&usqp=CAc",
+            "info": "There's a new-generation 108-megapixel primary camera,12-megapixel ultra-wide-angle camera and two telephoto cameras. It has Exynos 2100 5G SoC Processor.It has 6.8-inch AMOLED display as well as 5,000mAh battery capacity."
         },
         {
             "id": 8,
@@ -62,7 +69,8 @@
             "desc": "(Pine Green, 12GB RAM, 256GB Storage)",
             "price": 899,
             "color": "#7c95eb",
-            "image": "https://images-na.ssl-images-amazon.com/images/I/612ytK4luvL._SL1500_.jpg"
+            "image": "https://images-na.ssl-images-amazon.com/images/I/612ytK4luvL._SL1500_.jpg",
+            "info": "OnePlus 9 Pro comes with an AMOLED type 6.78-inch display with rear front consisting of a 48MP Primary Camera, a 50MP Ultra-Wide Angle Lens and an 8MP Telephoto Camera and a 2MP Depth Camera as well as 16MP selfie lens. It has Qualcomm Snapdragon 888 processor accompanied by an 8GB RAM providing the necessary speed and sustainability."
         }
     ]
 }
